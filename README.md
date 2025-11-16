@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 B.E. Student at Velammal Engineering College (CGPA: 8.53)  
-- 💻 Full-Stack Developer (Java + Spring Boot + HTML/CSS/JS)  
+- 🎓 B.E. Student at Velammal Engineering College   
+- 💻 Full-Stack Developer 
 - 📱 Mobile App Developer (Flutter, Firebase)  
 - 🤖 Passionate about Chatbots, UI/UX, and Scalable Web Systems  
 - 🌱 Currently learning MERN Stack  
@@ -45,26 +45,26 @@
 
 ---
 
-## ⚡ Technical Fun Facts  
+## ⚡Fun Facts  
 - 🧠 My debugging style is 80% logic, 20% strategic console.logs().  
 - 🔍 I optimize code the same way I organize files — recursively.  
 - ⚙️ I treat failed API calls as “unexpected features in development.”  
 - 🚀 I believe clean UI + clean code = developer happiness.  
-- 🧵 Multithreading may be hard, but so is choosing a good variable name.  
 
 ---
 
 ## 📊 Developer Stats  
 
 ### ⭐ GitHub Streak  
-> Replace `YOUR_USERNAME`
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+> janani-1466
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=janani-1466&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ### 🔥 LeetCode Streak  
-> Replace `YOUR_LEETCODE_USERNAME`
+> janani_06
 
-[![LeetCode Streak](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&animation=true)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Streak](https://leetcard.jacoblin.cool/janani_06?theme=light&animation=true&background=white)](https://leetcode.com/janani_06/)
+
 
 ---
 
@@ -74,12 +74,4 @@
   👉 *jananiselvam1466@gmail.com*
 
 - **LinkedIn:**  
-  👉 https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME  
-
-- **GitHub:**  
-  👉 https://github.com/YOUR_USERNAME  
-
-- **LeetCode:**  
-  👉 https://leetcode.com/YOUR_LEETCODE_USERNAME  
-
----
+  👉https://leetcode.com/u/janani_06/
